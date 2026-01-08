@@ -29,7 +29,7 @@ An intelligent AI-powered security platform that provides comprehensive threat a
 
 ### What is Sentinel?
 
-Sentinel (BRAMA) is an enterprise-grade AI cybersecurity platform that analyzes potential threats including:
+Sentinel is an enterprise-grade AI cybersecurity platform that analyzes potential threats including:
 - Malicious URLs and domains
 - Phishing emails and messages
 - Scam phone numbers
